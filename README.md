@@ -35,3 +35,6 @@ Disable:
 ## Cloud Variables
 
 Make sure to enable cloud variables and use any server you prefer.
+
+# Note:
+Due to cloud storage limits you may need to repackage this occationally as messages (currently) are not deleted and if it encouters overflow error ALL MESSAGES WILL BE CORRUPTED!
